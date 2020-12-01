@@ -1,8 +1,3 @@
-github.com/Kagami/go-face v0.0.0-20180922080525-863b26a6405e h1:vMcsUltLgqbenSW9dyMxqAbtia2WlFgI+uSU9Q/bvmA=
-github.com/Kagami/go-face v0.0.0-20180922080525-863b26a6405e/go.mod h1:6V3Zb/7DyezDSai6K1gDrTtN02RpvIFzQBHUEDAcjNI=
-github.com/Kagami/go-face v0.0.0-20200825065730-3dd2d74dccfb h1:DXwA1Te9paM+nsdTGc7uve37lq7WEbQO+gwGBPVwQuQ=
-github.com/Kagami/go-face v0.0.0-20200825065730-3dd2d74dccfb/go.mod h1:9wdDJkRgo3SGTcFwbQ7elVIQhIr2bbBjecuY7VoqmPU=
-github.com/esimov/pigo v1.0.3/go.mod h1:/weGpc3orB7x946PS43s7thO/9xQzjQyc4ZFU4kkUCo=
-github.com/fogleman/gg v1.1.0/go.mod h1:R/bRT+9gY/C5z7JzPU0zXsXHKM4/ayA+zqcVNZzPa1k=
-github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0/go.mod h1:E/TSTwGwJL78qG/PmXZO1EjYhfJinVAhrmmHX6Z8B9k=
-golang.org/x/image v0.0.0-20180926015637-991ec62608f3/go.mod h1:ux5Hcp/YLpHSI86hEcLt0YII63i6oz57MZXIpbrjZUs=
+github.com/nikhs247/goface v0.0.0-20201130235148-05196608da5e h1:iwp6sSkrOEaJedsEBvWl0aM7eoNY8qw23F28YDVkAnI=
+github.com/nikhs247/goface v0.0.0-20201130235925-b6d72baedfa6 h1:ekr+6XAoX8rOQMu5hfMiOxZJTkaRHTvfbMqc1/fTjwM=
+github.com/nikhs247/goface v0.0.0-20201130235925-b6d72baedfa6/go.mod h1:lJZks3Q3ACJ43qSbkR2KpL/rwMUjuqeyXdIZk8kpmx4=

@@ -9,7 +9,7 @@ import (
 	"strings"
 	"path/filepath"
 
-	"github.com/Kagami/go-face"
+	"github.com/nikhs247/goface"
 
 )
 
